@@ -22,13 +22,6 @@ This Python project simulates a warehouse inventory management system similar to
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-
 
 ## Usage
 
